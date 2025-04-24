@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+img {
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+}
+
+h1 {
+    font-size: 2em;
+    color: #333;
+}
